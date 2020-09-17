@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic outputclass="regulatory" xml:lang="en-us" id="topic-warranty">
+    <title>Warranty, Copyright, and Trademarks</title>
+    <body>
+        <section>
+            <title>Limited Warranty</title>
+            <p>For a description of the product warranty, see the Warranty and Returns page at <xref
+                    format="html" href="http://www.pasco.com/legal" scope="external"
+                    >www.pasco.com/legal</xref>.</p>
+        </section>
+        <section>
+            <title>Copyright</title>
+            <p>This document is copyrighted with all rights reserved. Permission is granted to
+                non-profit educational institutions for reproduction of any part of this manual,
+                providing the reproductions are used only in their laboratories and classrooms, and
+                are not sold for profit. Reproduction under any other circumstances, without the
+                written consent of PASCO scientific, is prohibited.</p>
+        </section>
+        <section>
+            <title>Trademarks</title>
+            <p>PASCO and PASCO scientific are trademarks or registered trademarks of PASCO
+                scientific, in the United States and/or in other countries. All other brands,
+                products, or service names are or may be trademarks or service marks of, and are
+                used to identify, products or services of, their respective owners. For more
+                information visit <xref format="html" href="http://www.pasco.com/legal"
+                    scope="external">www.pasco.com/legal</xref>.</p>
+        </section>
+    </body>
+</topic>
