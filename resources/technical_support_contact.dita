@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="technical_support" outputclass="tech_support">
+    <title id="title-802">Technical Support</title>
+    <prolog>
+        <author translate="no" type="creator">Jonathan Hanna &lt;jhanna@pasco.com&gt;</author>
+        <metadata>
+            <keywords/>
+        </metadata>
+    </prolog>
+    <body>
+        <p>Contact PASCO Technical Support for assistance with this or any other PASCO product. </p>
+        <table id="tech-support-contact">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <tbody>
+                    <row>
+                        <entry>Address</entry>
+                        <entry>
+                            <lines>PASCO scientific
+10101 Foothills Blvd.
+Roseville, CA 95747-7100</lines>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Phone</entry>
+                        <entry>
+                            <lines>1-800-772-8700 (USA)
+1-916-462-8384 (International)</lines>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Chat</entry>
+                        <entry>www.pasco.com</entry>
+                    </row>
+                    <row>
+                        <entry>email</entry>
+                        <entry>support@pasco.com</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
