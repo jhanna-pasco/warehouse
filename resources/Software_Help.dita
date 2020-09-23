@@ -11,16 +11,16 @@
     <body>
         <p>Additional information on how to use this device can be found in the PASCO Capstone and
             SPARKvue Help systems.</p>
-        <bodydiv props="capstone">
-            <p><image placement="inline" href="../images/capstone_logo.svg" id="image_l2v_cy2_cnb"
-                /></p>
-            <p>In the menu bar, click Help then select PASCO Capstone Help. </p>
-        </bodydiv>
         <bodydiv props="sparkvue">
             <p><image placement="inline" href="../images/sparkvue_logo.svg" id="image_wl1_wbf_cnb"
-                /></p>
+                    height="1.25em"/></p>
             <p>Click the Main Menu <image width="1em" href="../images/button_menu.png"
                     id="image_jx1_2y2_cnb"/> then select Help. </p>
+        </bodydiv>
+        <bodydiv props="capstone">
+            <p><image placement="inline" href="../images/capstone_logo.svg" id="image_l2v_cy2_cnb"
+                    height="1.5em"/></p>
+            <p>In the menu bar, click Help then select PASCO Capstone Help. </p>
         </bodydiv>
     </body>
 </topic>
