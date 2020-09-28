@@ -9,8 +9,8 @@
         </metadata>
     </prolog>
     <body>
-        <p>Additional information on how to use this device can be found in the PASCO Capstone and
-            SPARKvue Help systems.</p>
+        <p>Additional information on how to use the <keyword keyref="item-name"/> can be found in
+            the PASCO Capstone and SPARKvue Help.</p>
         <bodydiv props="sparkvue">
             <p><image placement="inline" href="../images/sparkvue_logo.svg" id="image_wl1_wbf_cnb"
                     height="1.25em"/></p>
