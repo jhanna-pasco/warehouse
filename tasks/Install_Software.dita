@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic-4189" xml:lang="en-us">
+    <title>Install or Update Software</title>
+    <prolog>
+        <author translate="no" type="creator">Jonathan Hanna &lt;jhanna@pasco.com&gt;</author>
+        <metadata>
+            <keywords/>
+        </metadata>
+    </prolog>
+    <body>
+        <p>The latest update of PASCO Capstone or SPARKvue is required to use the <keyword
+                keyref="item-name"/>. Download the software the locations provided below. If you
+            have previously installed the software, a notification will appear if an update is
+            available.</p>
+        <table>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="2*"/>
+                <colspec colname="c2" colnum="2" colwidth="2*"/>
+                <thead>
+                    <row>
+                        <entry><image height="1.5em" href="../images/capstone_logo.svg"/></entry>
+                        <entry><image height="1.25em" href="../images/sparkvue_logo.svg"/></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><dl>
+                                <dlentry>
+                                    <dt>Windows and macOS</dt>
+                                    <dd>Go to <xref format="html" href="pasco.com/capstone"
+                                            scope="external"/> then click Downloads.</dd>
+                                </dlentry>
+                            </dl></entry>
+                        <entry><dl>
+                                <dlentry>
+                                    <dt>Windows and macOS</dt>
+                                    <dd>Go to <xref format="html" href="pasco.com/sparkvue"
+                                            scope="external"/> then click Downloads.</dd>
+                                </dlentry>
+                                <dlentry>
+                                    <dt>iOS, Android, and Chromebook</dt>
+                                    <dd>Search for SPARKvue in your device's app store.</dd>
+                                </dlentry>
+                            </dl></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
