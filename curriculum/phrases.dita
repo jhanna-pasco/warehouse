@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic-6843" xml:lang="en-us">
+    <title>Phrases</title>
+    <shortdesc>This topic contains various phrases that can be reused in topics.</shortdesc>
+    <body>
+        <p id="safety-statement">Follow these important safety precaution in addition to your
+            regular classroom procedures:</p>
+        <p id="safety-statement-gen">Follow regular laboratory safety precautions.</p>
+    </body>
+</topic>

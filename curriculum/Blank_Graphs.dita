@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="blank-graph" xml:lang="en-us">
+    <title>Blank Graphs</title>
+    <shortdesc>Blank graphs for reuse in labs.</shortdesc>
+    <prolog>
+        <author translate="no" type="creator">Jonathan Hanna &lt;jhanna@pasco.com&gt;</author>
+        <metadata>
+            <keywords/>
+        </metadata>
+    </prolog>
+    <body>
+        <image id="coarse" outputclass="blank" href="images/ws-graph-coarse.jpg"/>
+        <image id="fine" outputclass="blank" href="images/ws-graph-fine.jpg"/>
+        <image id="coarse-key" outputclass="blank" href="images/ws-graph-coarse_key.jpg"/>
+        <image id="fine-key" outputclass="blank" href="images/ws-graph-fine_key.jpg"/>
+    </body>
+</topic>
