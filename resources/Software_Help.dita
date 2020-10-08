@@ -10,25 +10,24 @@
     </prolog>
     <body>
         <p>Additional information on how to use the <keyword keyref="item-name"/> can be found in
-            the PASCO Capstone and SPARKvue Help.</p>
-        <table frame="all" id="table_b3f_rgs_2nb">
+            the PASCO Capstone and SPARKvue&#xa0;Help.</p>
+        <table frame="none" id="table_b3f_rgs_2nb">
             <tgroup cols="2">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <thead>
                     <row>
                         <entry><image placement="inline" href="../images/capstone_logo.svg"
-                                id="image_l2v_cy2_cnb" height="1.5em"/></entry>
+                                id="image_l2v_cy2_cnb" height="1.0em"/></entry>
                         <entry><image placement="inline" href="../images/sparkvue_logo.svg"
-                                id="image_wl1_wbf_cnb" height="1.25em"/></entry>
+                                id="image_wl1_wbf_cnb" height="1.0em"/></entry>
                     </row>
                 </thead>
                 <tbody>
                     <row>
-                        <entry>In the menu bar, click Help then select PASCO Capstone Help.</entry>
-                        <entry>Click the Main Menu <image width="1em"
-                                href="../images/button_menu.png" id="image_jx1_2y2_cnb"/> then
-                            select Help.</entry>
+                        <entry>In the menu bar, click Help then select PASCO&#xa0;Capstone&#xa0;Help.</entry>
+                        <entry>Click <image width="1em" href="../images/button_menu.png"
+                                id="image_jx1_2y2_cnb"/> then select Help.</entry>
                     </row>
                 </tbody>
             </tgroup>
