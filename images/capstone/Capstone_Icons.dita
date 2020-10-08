@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="capstone_icons" xml:lang="en-us" class="- topic/topic "><title class="- topic/title ">Capstone Icons</title><prolog class="- topic/prolog "><author translate="no" type="creator" class="- topic/author ">Jonathan Hanna &lt;jhanna@pasco.com&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/></metadata></prolog><body class="- topic/body "><section id="section_ftb_tyv_fnb" class="- topic/section ">
+            <title class="- topic/title ">Generic</title>
+            <table frame="all" id="table_xdm_5yv_fnb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="drop_down_menu" placement="inline" href="displays/drop_down_menu.png" class="- topic/image "><alt class="- topic/alt ">Menu</alt></image>
+                            </entry><entry class="- topic/entry ">drop_down_menu</entry></row><row class="- topic/row "><entry class="- topic/entry "><image id="image_p3d_czv_fnb" placement="inline" href="displays/general_Pin.png" class="- topic/image "><alt class="- topic/alt ">Pin Toolbar</alt></image></entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="properties" placement="inline" href="displays/general_Options.png" class="- topic/image "><alt class="- topic/alt ">Properties</alt></image>
+                            </entry><entry class="- topic/entry ">properties</entry></row><row class="- topic/row "><entry class="- topic/entry "><image id="image_rcj_jzv_fnb" placement="inline" href="displays/menu_visibility.png" class="- topic/image "><alt class="- topic/alt ">Show or Hide Tools</alt></image></entry><entry class="- topic/entry "/></row></tbody></tgroup></table>
+        </section><section class="- topic/section ">
+            <title class="- topic/title ">Graph Tools</title>
+            <table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" class="- topic/colspec "/><colspec colname="c2" colnum="2" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="scale_to_fit" href="displays/graph/graph_ScaleToFit.png" class="- topic/image "><alt class="- topic/alt ">Scale to Fit</alt></image>
+                            </entry><entry class="- topic/entry ">scale_to_fit</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="scaling_behavior" href="displays/graph/graph_ChangeScaling.png" class="- topic/image "><alt class="- topic/alt ">Scaling Behavior</alt></image>
+                            </entry><entry class="- topic/entry ">scaling_behavior</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="visible_data" href="palettes/tools/tool_ExperimentData.png" class="- topic/image "><alt class="- topic/alt ">Visible Data</alt></image>
+                            </entry><entry class="- topic/entry ">visible_data</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="highlighter" href="displays/graph/general_SelectData.png" class="- topic/image "><alt class="- topic/alt ">Highlighter</alt></image>
+                            </entry><entry class="- topic/entry ">highlighter</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="statistics" href="displays/general_Statistics.png" class="- topic/image "><alt class="- topic/alt ">Statistics</alt></image>
+                            </entry><entry class="- topic/entry ">statistics</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="area_tool" href="displays/graph/graph_AreaTool.png" class="- topic/image "><alt class="- topic/alt ">Area Tool</alt></image>
+                            </entry><entry class="- topic/entry ">area_tool</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="curve_fit" href="displays/graph/graph_CurveFits.png" class="- topic/image "><alt class="- topic/alt ">Curve Fit Tool</alt></image>
+                            </entry><entry class="- topic/entry ">curve_fit</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="coordinates" href="displays/graph/graph_SmartTool.png" class="- topic/image "><alt class="- topic/alt ">Coordinates Tool</alt></image>
+                            </entry><entry class="- topic/entry ">coordinates</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="slope_tool" href="displays/graph/graph_SlopeTool.png" class="- topic/image "><alt class="- topic/alt ">Slope Tool</alt></image>
+                            </entry><entry class="- topic/entry ">slope_tool</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="annotation" href="displays/Annotation.png" class="- topic/image "><alt class="- topic/alt ">Annotation Tool</alt></image>
+                            </entry><entry class="- topic/entry ">annotation</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="smoothing" href="displays/graph/graph_Smoothing.png" class="- topic/image "><alt class="- topic/alt ">Smoothing</alt></image>
+                            </entry><entry class="- topic/entry ">smoothing</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="prediction_tool" href="displays/graph/graph_Prediction.png" class="- topic/image "><alt class="- topic/alt ">Prediction Tool</alt></image>
+                            </entry><entry class="- topic/entry ">prediction_tool</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="exclude_data" placement="inline" href="displays/graph/general_DataExclude.png" class="- topic/image "><alt class="- topic/alt ">Exclude Data</alt></image>
+                            </entry><entry class="- topic/entry ">exclude_data</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="delete_data" href="displays/graph/general_DataDelete.png" class="- topic/image "><alt class="- topic/alt ">Delete Data</alt></image>
+                            </entry><entry class="- topic/entry ">delete_data</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="add_y-axis" href="displays/graph/graph_AddAxis.png" class="- topic/image "><alt class="- topic/alt ">Add y-axis</alt></image>
+                            </entry><entry class="- topic/entry ">add_y-axis</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="add_plot_area" href="displays/graph/graph_AddPlot.png" class="- topic/image "><alt class="- topic/alt ">Add Plot Area</alt></image>
+                            </entry><entry class="- topic/entry ">add_plot_area</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="remove" href="displays/remove.png" class="- topic/image "><alt class="- topic/alt ">Remove</alt></image>
+                            </entry><entry class="- topic/entry ">remove</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="reaarange" href="displays/graph/graph_AllowAxesRearrange.png" class="- topic/image "><alt class="- topic/alt ">Rearrange</alt></image>
+                            </entry><entry class="- topic/entry ">reaarange</entry></row></tbody></tgroup></table>
+            <table frame="all" id="table_yqc_kj3_5mb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="add_plot_area_context" href="displays/graph/addPlotarea.svg" class="- topic/image "><alt class="- topic/alt ">Add Plot Area</alt></image>
+                            </entry><entry class="- topic/entry ">add_plot_area_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="add_y-axis_context" href="displays/graph/addYaxis.svg" class="- topic/image "><alt class="- topic/alt ">Add y-axis</alt></image>
+                            </entry><entry class="- topic/entry ">add_y-axis_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/alignmentDatapoints.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/alignmentTool.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="previous_data_point" href="displays/graph/previous_data_point.svg" class="- topic/image "><alt class="- topic/alt ">Previous Data Point</alt></image>
+                            </entry><entry class="- topic/entry ">previous_data_point</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="next_data_point" href="displays/graph/next_data_point.svg" class="- topic/image "><alt class="- topic/alt ">Next Data Point</alt></image>
+                            </entry><entry class="- topic/entry ">next_data_point</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="area_tool_context" href="displays/graph/areaUnderCurve.svg" class="- topic/image "><alt class="- topic/alt ">Area Tool</alt></image>
+                            </entry><entry class="- topic/entry ">area_tool_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="auto_scale_context" href="displays/graph/autoScale.svg" class="- topic/image "><alt class="- topic/alt ">Scale to Fit</alt></image>
+                            </entry><entry class="- topic/entry ">auto_scale_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="coordinates_context" href="displays/graph/coordinateTool.svg" class="- topic/image "><alt class="- topic/alt ">Coordinates Tool</alt></image>
+                            </entry><entry class="- topic/entry ">coordinates_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="curve_fit_context" href="displays/graph/curveFit.svg" class="- topic/image "><alt class="- topic/alt ">Curve Fit Tool</alt></image>
+                            </entry><entry class="- topic/entry ">curve_fit_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="properties_context" href="displays/graph/curveFitProperties.svg" class="- topic/image "><alt class="- topic/alt ">Properties</alt></image>
+                            </entry><entry class="- topic/entry ">properties_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/decreaseDecimals.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="remove_context" href="displays/graph/deleteTool.svg" class="- topic/image "><alt class="- topic/alt ">Remove</alt></image>
+                            </entry><entry class="- topic/entry ">remove_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="delta_context" href="displays/graph/deltaTool.svg" class="- topic/image "><alt class="- topic/alt ">Delta Tool</alt></image>
+                            </entry><entry class="- topic/entry ">delta_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="exclude_data_context" href="displays/graph/excludeDataPoints.svg" class="- topic/image "><alt class="- topic/alt ">Exclude Data</alt></image>
+                            </entry><entry class="- topic/entry ">exclude_data_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="hide_delta_context" href="displays/graph/hideDeltaTool.svg" class="- topic/image "><alt class="- topic/alt ">Hide Delta Tool</alt></image>
+                            </entry><entry class="- topic/entry ">hide_delta_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/increaseDecimal.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/moveYaxisLeft.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/graph/moveYaxisRight.svg" class="- topic/image "/>
+                            </entry><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="visual_statistics" href="displays/graph/statsSwitchVisualTabular.svg" class="- topic/image "><alt class="- topic/alt ">Visual Statistics</alt></image>
+                            </entry><entry class="- topic/entry ">visual_statistics</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="tabular_statistics" href="displays/graph/showTabularStatistics.svg" class="- topic/image "><alt class="- topic/alt ">Tabular Statistics</alt></image>
+                            </entry><entry class="- topic/entry ">tabular_statistics</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="slope_tool_context" href="displays/graph/slopeTool.svg" class="- topic/image "><alt class="- topic/alt ">Slope Tool</alt></image>
+                            </entry><entry class="- topic/entry ">slope_tool_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="statistics_context" href="displays/graph/statistics.svg" class="- topic/image "><alt class="- topic/alt ">Statistics</alt></image>
+                            </entry><entry class="- topic/entry ">statistics_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="curve_fit_editor_context" href="displays/graph/openCurveFitEditor.svg" class="- topic/image "><alt class="- topic/alt ">Curve Fit Editor</alt></image>
+                            </entry><entry class="- topic/entry ">curve_fit_editor_context</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="annotation_context" href="displays/graph/textAnnotation.svg" class="- topic/image "><alt class="- topic/alt ">Annotation</alt></image>
+                            </entry><entry class="- topic/entry ">annotation_context</entry></row></tbody></tgroup></table>
+        </section><section class="- topic/section ">
+            <title class="- topic/title ">Table Tools</title>
+            <table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" class="- topic/colspec "/><colspec colname="c2" colnum="2" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="insert_column" href="displays/table/TableInsertColumn.png" class="- topic/image "><alt class="- topic/alt ">Insert Column</alt></image>
+                            </entry><entry class="- topic/entry ">insert_column</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="remove_column" href="displays/table/TableRemoveColumn.png" class="- topic/image "><alt class="- topic/alt ">Remove Column</alt></image>
+                            </entry><entry class="- topic/entry ">remove_column</entry></row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "><image placement="inline" href="displays/table/TableInsertCalculationColumn.png" id="image_nzz_xbw_fnb" class="- topic/image ">
+                                    <alt class="- topic/alt ">Insert Calculation Column</alt>
+                                </image></entry>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="highlight_cells" href="displays/table/table_SelectData.png" class="- topic/image "><alt class="- topic/alt ">Highlight Cells</alt></image>
+                            </entry><entry class="- topic/entry ">highlight_cells</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image href="displays/table/table_ClearSelectedData.png" id="remove_highlighter" class="- topic/image ">
+                                    <alt class="- topic/alt ">Remove Highlighting</alt>
+                                </image>
+                            </entry><entry class="- topic/entry ">remove_highlighter</entry></row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row>
+                        <row class="- topic/row ">
+                            <entry class="- topic/entry "/>
+                            <entry class="- topic/entry "/>
+                        </row></tbody></tgroup></table>
+        </section><section id="section_t2n_sx5_ymb" class="- topic/section ">
+            <title class="- topic/title ">Circuit Tools</title>
+            <table frame="all" id="table_ff2_5x5_ymb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="current_direction" href="displays/circuit/circuit_current_direction.png" class="- topic/image "><alt class="- topic/alt ">Current Direction</alt></image>
+                            </entry><entry class="- topic/entry ">current_direction</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="components_palette" href="displays/circuit/circuit_hide_palette.png" class="- topic/image "><alt class="- topic/alt ">Show/Hide Components Palette</alt></image>
+                            </entry><entry class="- topic/entry ">components_palette</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="zoom_in_circuit" href="displays/circuit/circuit_zoom_in.png" class="- topic/image "><alt class="- topic/alt ">Zoom In</alt></image>
+                            </entry><entry class="- topic/entry ">zoom_in_circuit</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="zoom_out_circuit" href="displays/circuit/circuit_zoom_out.png" class="- topic/image "><alt class="- topic/alt ">Zoom Out</alt></image>
+                            </entry><entry class="- topic/entry ">zoom_out_circuit</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="run_simulation" href="displays/circuit/circuit_start_simulation.png" class="- topic/image "><alt class="- topic/alt ">Run Simulation</alt></image>
+                            </entry><entry class="- topic/entry ">run_simulation</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="stop_simulation" href="displays/circuit/circuit_stop_simulation.png" class="- topic/image "><alt class="- topic/alt ">Stop Simulation</alt></image>
+                            </entry><entry class="- topic/entry ">stop_simulation</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="delete_component" href="displays/circuit/circuit_delete.png" class="- topic/image "><alt class="- topic/alt ">Delete Component</alt></image>
+                            </entry><entry class="- topic/entry ">delete_component</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="display_digits" href="displays/circuit/circuit_digits.png" class="- topic/image "><alt class="- topic/alt ">Display Digits</alt></image>
+                            </entry><entry class="- topic/entry ">display_digits</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="discharge_capacitor" href="displays/circuit/circuit_discharge.png" class="- topic/image "><alt class="- topic/alt ">Discharge Capacitor</alt></image>
+                            </entry><entry class="- topic/entry ">discharge_capacitor</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="edit_component" href="displays/circuit/circuit_edit.png" class="- topic/image "><alt class="- topic/alt ">Edit Component Parameter</alt></image>
+                            </entry><entry class="- topic/entry ">edit_component</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="display_graph" href="displays/circuit/circuit_graph.png" class="- topic/image "><alt class="- topic/alt ">Display Graph</alt></image>
+                            </entry><entry class="- topic/entry ">display_graph</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="rotate_component" href="displays/circuit/circuit_rotate.png" class="- topic/image "><alt class="- topic/alt ">Rotate Component</alt></image>
+                            </entry><entry class="- topic/entry ">rotate_component</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="select_measurement_circuit" href="displays/circuit/circuit_select_measurement.png" class="- topic/image "><alt class="- topic/alt ">Select Measurement</alt></image>
+                            </entry><entry class="- topic/entry ">select_measurement_circuit</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="switch_circuit" href="displays/circuit/circuit_switch.png" class="- topic/image "><alt class="- topic/alt ">Open/Close Switch</alt></image>
+                            </entry><entry class="- topic/entry ">switch_circuit</entry></row></tbody></tgroup></table>
+        </section><section id="section_ifl_mf1_wmb" class="- topic/section ">
+            <title class="- topic/title ">Displays</title>
+            <table frame="all" id="table_qmg_nf1_wmb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="line_graph" placement="inline" href="palettes/displays/display_Graph_24x24.png" class="- topic/image "><alt class="- topic/alt ">Graph Display</alt></image>
+                            </entry><entry class="- topic/entry ">line_graph</entry></row><row class="- topic/row "><entry class="- topic/entry "/><entry class="- topic/entry "/></row></tbody></tgroup></table>
+        </section><section id="section_w5q_bpx_wmb" class="- topic/section ">
+            <title class="- topic/title ">Tools</title>
+            <table frame="all" id="table_y1g_cpx_wmb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="hardware_setup" placement="inline" href="palettes/tools/tool_HardwareSetup.png" class="- topic/image "><alt class="- topic/alt ">Hardware Setup</alt></image>
+                            </entry><entry class="- topic/entry ">hardware_setup</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="data_summary" placement="inline" href="palettes/tools/tool_ExperimentData.png" class="- topic/image "><alt class="- topic/alt ">Data Summary</alt></image>
+                            </entry><entry class="- topic/entry ">data_summary</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="code" placement="inline" href="palettes/tools/icon_Code.png" class="- topic/image "><alt class="- topic/alt ">Code</alt></image>
+                            </entry><entry class="- topic/entry ">code</entry></row></tbody></tgroup></table>
+        </section><section class="- topic/section ">
+            <title class="- topic/title ">Controls</title>
+            <table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" class="- topic/colspec "/><colspec colname="c2" colnum="2" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="record" href="palettes/controls/control_Record.png" class="- topic/image "><alt class="- topic/alt ">Record</alt></image>
+                            </entry><entry class="- topic/entry ">record</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="stop" href="palettes/controls/control_Stop.png" class="- topic/image "><alt class="- topic/alt ">Stop</alt></image>
+                            </entry><entry class="- topic/entry ">stop</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="execute" placement="inline" href="palettes/tools/icon_Code.png" class="- topic/image "><alt class="- topic/alt ">Execute</alt></image>
+                            </entry><entry class="- topic/entry ">execute</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="delete_run" href="palettes/controls/control_DeleteLastRun_24x24.png" class="- topic/image "><alt class="- topic/alt ">Delete Run</alt></image>
+                            </entry><entry class="- topic/entry ">delete_run</entry></row><row class="- topic/row "><entry class="- topic/entry "/><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry "/><entry class="- topic/entry "/></row><row class="- topic/row "><entry class="- topic/entry "/><entry class="- topic/entry "/></row></tbody></tgroup></table>
+        </section><section id="section_sfj_d4h_ymb" class="- topic/section ">
+            <title class="- topic/title ">Menu</title>
+            <table frame="all" id="table_unb_24h_ymb" class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="c1" colnum="1" colwidth="1*" class="- topic/colspec "/><colspec colname="c2" colnum="2" colwidth="1*" class="- topic/colspec "/><thead class="- topic/thead "><row class="- topic/row "><entry class="- topic/entry ">Icon</entry><entry class="- topic/entry ">Key</entry></row></thead><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                                <image id="new_experiment" placement="inline" href="toolbar/file_CreateExperiment.png" class="- topic/image "><alt class="- topic/alt ">New Experiment</alt></image>
+                            </entry><entry class="- topic/entry ">new_experiment</entry></row><row class="- topic/row "><entry class="- topic/entry "/><entry class="- topic/entry "/></row></tbody></tgroup></table>
+        </section></body></topic>
