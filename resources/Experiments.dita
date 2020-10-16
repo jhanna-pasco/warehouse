@@ -5,7 +5,8 @@
     <body>
         <p>Print-ready experiment worksheets are available to download from the PASCO website. Go to
                 <xref format="html" href="http://www.pasco.com/freelabs" scope="external"
-                >pasco.com/freelabs</xref> and enter <b><keyword keyref="item-number"/></b> to
-            access all experiments related to this product.</p>
+                >pasco.com/freelabs</xref> and enter <b><keyword keyref="item-number"/></b> under
+                <b>Part No.</b> to access all experiments related to the <ph keyref="item-name"
+            />.</p>
     </body>
 </topic>
