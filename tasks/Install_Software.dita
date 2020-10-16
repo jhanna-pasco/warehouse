@@ -17,8 +17,10 @@
                 <colspec colname="c2" colnum="2" colwidth="2*"/>
                 <thead>
                     <row>
-                        <entry><image height="1em" href="../images/capstone_logo.svg"/></entry>
-                        <entry><image height="1em" href="../images/sparkvue_logo.svg"/></entry>
+                        <entry align="left"><image height="1em" href="../images/capstone_logo.svg"
+                            /></entry>
+                        <entry align="left"><image height="1em" href="../images/sparkvue_logo.svg"
+                            /></entry>
                     </row>
                 </thead>
                 <tbody>

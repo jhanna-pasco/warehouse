@@ -17,10 +17,12 @@
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <thead>
                     <row>
-                        <entry><image placement="inline" href="../images/capstone_logo.svg"
-                                id="image_l2v_cy2_cnb" height="1.0em"/></entry>
-                        <entry><image placement="inline" href="../images/sparkvue_logo.svg"
-                                id="image_wl1_wbf_cnb" height="1.0em"/></entry>
+                        <entry align="left"><image placement="inline"
+                                href="../images/capstone_logo.svg" id="image_l2v_cy2_cnb"
+                                height="1.0em"/></entry>
+                        <entry align="left"><image placement="inline"
+                                href="../images/sparkvue_logo.svg" id="image_wl1_wbf_cnb"
+                                height="1.0em"/></entry>
                     </row>
                 </thead>
                 <tbody>
