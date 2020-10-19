@@ -13,39 +13,38 @@
             USB or Bluetooth connection. The <keyword keyref="item-name"/> automatically connects to
             the software when a USB connection is used.</p>
         <p>To connect using Bluetooth:</p>
-        <ol>
-            <li>
-                <p>Power on the <keyword keyref="item-name"/>.</p>
-            </li>
-            <li>
-                <p>Open Capstone or SPARKvue then:</p>
-                <table>
-                    <tgroup cols="2">
-                        <colspec colname="c1" colnum="1" colwidth="2*"/>
-                        <colspec colname="c2" colnum="2" colwidth="2*"/>
-                        <thead>
-                            <row>
-                                <entry align="left">
-                                    <image height="1em" href="../images/capstone_logo.svg"/>
-                                </entry>
-                                <entry align="left">
-                                    <image height="1em" href="../images/sparkvue_logo.svg"/>
-                                </entry>
-                            </row>
-                        </thead>
-                        <tbody>
-                            <row>
-                                <entry><p>Click Hardware Setup.</p></entry>
-                                <entry><p>Click Sensor Data.</p></entry>
-                            </row>
-                        </tbody>
-                    </tgroup>
-                </table>
-            </li>
-            <li>
-                <p>Select the device ID that matches your <keyword keyref="item-name"/>.</p>
-            </li>
-        </ol>
+        <section id="section_yw4_4ls_jnb">
+            <title><image height="1em" href="../images/sparkvue_logo.svg" id="image_xqc_pls_jnb">
+                    <alt>SPARKvue</alt>
+                </image></title>
+            <ol id="ol_q1s_5ls_jnb">
+                <li>
+                    <p>Power on the <keyword keyref="item-name"/>.</p>
+                </li>
+                <li>
+                    <p>Open SPARKvue then click Hardware Setup.</p>
+                </li>
+                <li>
+                    <p>Select the device ID that matches your <keyword keyref="item-name"/>.</p>
+                </li>
+            </ol>
+        </section>
+        <section id="section_mjy_qls_jnb">
+            <title><image height="1em" href="../images/capstone_logo.svg" id="image_mgg_rls_jnb">
+                    <alt>PASCO Capstone</alt>
+                </image></title>
+            <ol id="ol_vpy_5ls_jnb">
+                <li>
+                    <p>Power on the <keyword keyref="item-name"/>.</p>
+                </li>
+                <li>
+                    <p>Open Capstone then click Hardware Setup.</p>
+                </li>
+                <li>
+                    <p>Select the device ID that matches your <keyword keyref="item-name"/>.</p>
+                </li>
+            </ol>
+        </section>
         <note type="important">You <i>may</i> receive a notification to install a firmware update.
             Click Yes to update the firmware if prompted.</note>
     </body>
