@@ -12,18 +12,14 @@
         <p>Additional information on how to use the <keyword keyref="item-name"/> can be found in
             the PASCO Capstone and SPARKvue&#xa0;Help.</p>
         <section id="section_kyt_zls_jnb">
-            <title><image placement="inline" href="../images/sparkvue_logo.svg"
-                    id="image_wl1_wbf_cnb" height="1.0em">
-                    <alt>SPARKvue</alt>
-                </image></title>
+            <title><image placement="inline" href="../images/sparkvue_logo_only.svg"
+                    id="image_wl1_wbf_cnb" height="1.0em"/> SPARKvue</title>
             <p>Click <image width="1em" href="../images/button_menu.png" id="image_jx1_2y2_cnb"/>
                 then select Help.</p>
         </section>
         <section id="section_hy5_bms_jnb">
-            <title><image placement="inline" href="../images/capstone_logo.svg"
-                    id="image_l2v_cy2_cnb" height="1.0em">
-                    <alt>PASCO Capstone</alt>
-                </image></title>
+            <title><image placement="inline" href="../images/capstone_logo_only.svg"
+                    id="image_l2v_cy2_cnb" height="1.0em"/> PASCO Capstone</title>
             <p>In the menu bar, click Help then select PASCO&#xa0;Capstone&#xa0;Help.</p>
         </section>
     </body>

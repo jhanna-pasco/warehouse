@@ -14,9 +14,8 @@
             the software when a USB connection is used.</p>
         <p>To connect using Bluetooth:</p>
         <section id="section_yw4_4ls_jnb">
-            <title><image height="1em" href="../images/sparkvue_logo.svg" id="image_xqc_pls_jnb">
-                    <alt>SPARKvue</alt>
-                </image></title>
+            <title><image placement="inline" href="../images/sparkvue_logo_only.svg"
+                    id="image_wl1_wbf_cnb" height="1.0em"/> SPARKvue</title>
             <ol id="ol_q1s_5ls_jnb">
                 <li>
                     <p>Power on the <keyword keyref="item-name"/>.</p>
@@ -30,9 +29,8 @@
             </ol>
         </section>
         <section id="section_mjy_qls_jnb">
-            <title><image height="1em" href="../images/capstone_logo.svg" id="image_mgg_rls_jnb">
-                    <alt>PASCO Capstone</alt>
-                </image></title>
+            <title><image placement="inline" href="../images/capstone_logo_only.svg"
+                    id="image_l2v_cy2_cnb" height="1.0em"/> PASCO Capstone</title>
             <ol id="ol_vpy_5ls_jnb">
                 <li>
                     <p>Power on the <keyword keyref="item-name"/>.</p>
