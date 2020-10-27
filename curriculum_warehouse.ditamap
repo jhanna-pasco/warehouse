@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="curriculum_warehouse">
+    <title>Curriculum Warehouse</title>
+    <keydef keys="blank_graphs" href="curriculum/Blank_Graphs.dita"/>
+    <keydef keys="safety_statements" href="curriculum/safety_statements.dita"/>
+    <keydef keys="phrases" href="curriculum/phrases.dita"/>
+    <keydef keys="sparkvue_icons" href="images/sparkvue/sparkvue_icons.dita"/>
+    <keydef keys="tech_support" href="resources/technical_support_contact.dita"></keydef>
+</map>
