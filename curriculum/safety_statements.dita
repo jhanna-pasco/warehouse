@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic-7166" xml:lang="en-us">
+    <title>Reusable Safety Statements</title>
+    <shortdesc>Common safety statements used in labs.</shortdesc>
+    <body>
+        <p><b>WHEN THERE ARE NO SPECIFIC SAFETY
+                INSTRUCTIONS</b></p>
+        <p id="regular-procedures">Follow regular lab safety procedures.</p>
+        <p><b>ATTIRE</b></p>
+        <p id="wear-goggles">Wear safety goggles at all times.</p>
+        <p id="hair-sleeves-jewelry">Tie back long hair, roll up long sleeves,
+            and remove dangling jewelry.</p>
+        <p id="use-gloves">Use gloves if available.</p>
+        <p><b>ACCIDENTS</b></p>
+        <p id="spills">Notify your instructor of spills and clean up as
+            directed.</p>
+        <p id="skin-rinse">If chemicals get on your skin, immediately rinse
+            thoroughly with running water and notify your instructor.</p>
+        <p><b>HEAT- AND FIRE-RELATED</b></p>
+        <p id="caution-hot-water">Use caution with hot water.</p>
+        <p id="caution-hot-plate">Use caution when using the hot plate.</p>
+        <p id="tongs-hot-water">Use beaker tongs when handling hot water.</p>
+        <p id="caution-open-flame">Use caution around open flames.</p>
+        <p id="no-open-flame">No open flames are permitted during this
+            investigation.</p>
+        <p id="point-test-tube">Do not point the test tube opening towards
+            yourself or anyone else while heating the test tube.</p>
+        <p id="matches">If using matches, light the match before turning on the
+            gas.</p>
+        <p id="flint-striker">If using a flint striker, make sure you know how to
+            produce a spark before turning on the gas.</p>
+        <p id="light-cool">Allow the light bulb to cool before moving.</p>
+        <p><b>BEHAVIOR AND HOUSEKEEPING</b></p>
+        <p id="eat-drink">Never eat or drink in the lab even when working with
+            food.</p>
+        <p id="wash-hands">Wash your hands thoroughly when finished with the
+            investigation.</p>
+        <p id="avoid-contact">Avoid contact with eyes or skin when handling
+            materials.</p>
+        <p><b>WATER-, SOLUTION-, VOLATILE-, AND
+                CHEMICAL-RELATED</b><note>Hot water is listed in HEAT- AND
+                FIRE-RELATED section above</note></p>
+        <p id="sensor-wet">Do not let the sensor get wet.</p>
+        <p id="acids-bases">Use caution with acids and bases.</p>
+        <p id="add-acid">When diluting acid, add acid to water, not the other way
+            around.</p>
+        <p id="dispose-chemicals">Dispose of chemicals in the proper waste
+            container as directed by your instructor.</p>
+        <p>Work in a well-ventilated area.</p>
+        <p id="fume-hood">Use the fume hood as directed by your instructor.</p>
+        <p id="no-water-electrical">Keep water away from electrical outlets and
+            all electronic equipment.</p>
+        <p><b>SHARP OR FRAGILE EQUIPMENT AND
+                GLASSWARE</b></p>
+        <p id="knife-scalpel-cut">Use caution when handling a knife or scalpel
+            and always cut in a direction away from your body.</p>
+        <p id="chipped-cracked">Inspect glassware and notify your instructor if
+            it is chipped or cracked.</p>
+        <p id="slides">Do not use cracked or chipped microscope slides.</p>
+        <p><b>BIOLOGICAL</b></p>
+        <p id="living-organisms">Handle and treat living organisms with care.</p>
+        <p id="preserved-specimen">Return preserved specimens to their
+            appropriate container.</p>
+        <p id="dispose-specimen">Dispose of specimens as directed by your
+            instructor.</p>
+    </body>
+</topic>
