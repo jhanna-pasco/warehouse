@@ -7,5 +7,7 @@
         <p id="safety-statement">Follow these important safety precaution in addition to your
             regular classroom procedures:</p>
         <p id="safety-statement-gen">Follow regular laboratory safety precautions.</p>
+        <p id="materials-prep">Refer to the Teacher Tips section for preparation instructions.</p>
+        <p id="questions_procedure" outputclass="teacher">This part does not contain any questions for students to answer.</p>
     </body>
 </topic>
