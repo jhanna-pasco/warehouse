@@ -6,5 +6,7 @@
     <keydef keys="safety_statements" href="curriculum/safety_statements.dita"/>
     <keydef keys="phrases" href="curriculum/phrases.dita"/>
     <keydef keys="sparkvue_icons" href="images/sparkvue/sparkvue_icons.dita"/>
+    <keydef href="images/capstone/Capstone_Icons.dita" keys="capstone_icons"/>
+    <keydef href="images/spectrometry/spectrometry_icons.dita" keys="spectrometry_icons"/>
     <keydef keys="tech_support" href="resources/technical_support_contact.dita"></keydef>
 </map>
