@@ -10,12 +10,12 @@
     </prolog>
     <body>
         <p>The <keyword keyref="item-name"/> contains a rechargeable battery that lasts an entire
-            school day when fully charged. Charge the battery before using the <keyword
-                keyref="item-name"/> for the first time since it is not shipped with a full
-            charge.</p>
+            school day when fully charged. It is also possible to collect data while the battery is
+            charging. Charge the battery before using the <keyword keyref="item-name"/> for the
+            first time since it is not shipped with a full charge.</p>
         <p>To charge the battery:</p>
         <ol>
-            <li> Connect the USB cable to the USB port on the <keyword keyref="item-name"/>.</li>
+            <li>Connect the USB cable to the USB port on the <keyword keyref="item-name"/>.</li>
             <li>Connect the other end of the USB cable to a USB charger or powered USB port.</li>
         </ol>
         <p>The battery status light will be solid yellow while the battery is charging and will
