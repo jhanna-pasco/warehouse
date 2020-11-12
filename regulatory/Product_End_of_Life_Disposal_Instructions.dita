@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic-9991" outputclass="regulatory" xml:lang="en-us" class="- topic/topic "><title class="- topic/title ">Product End of Life Disposal Instructions</title><body class="- topic/body "><fig outputclass="float-left" class="- topic/fig ">
+<topic id="topic-9991" outputclass="regulatory" xml:lang="en-us"><title>Product End of Life Disposal Instructions</title><body><fig outputclass="float-left">
                                     <image placement="inline" width="2em"
-                                                href="../images/WEEE_symbol.svg"
-                                                class="- topic/image "/>
-                        </fig><p class="- topic/p ">This electronic product is subject to disposal and recycling
+                                                href="../images/WEEE_symbol.svg"/>
+                        </fig><p>This electronic product is subject to disposal and recycling
             regulations that vary by country and region. It is your responsibility to recycle your
             electronic equipment per your local environmental laws and regulations to ensure that it
             will be recycled in a manner that protects human health and the environment. To find out
             where you can drop off your waste equipment for recycling, please contact your local
-            waste recycle or disposal service, or the place where you purchased the product.</p><p class="- topic/p ">The European Union WEEE (Waste Electronic and Electrical Equipment)
+            waste recycle or disposal service, or the place where you purchased the product.</p><p>The European Union WEEE (Waste Electronic and Electrical Equipment)
             symbol and on the product or its packaging indicates that this product must not be
             disposed of in a standard waste container.</p></body></topic>

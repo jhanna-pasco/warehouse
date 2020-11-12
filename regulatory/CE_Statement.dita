@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic-8777" xml:lang="en-us" outputclass="regulatory" class="- topic/topic ">
-    <title class="- topic/title ">CE Statement</title>
-    <body class="- topic/body ">
-        <p class="- topic/p ">This device has been tested and found to comply with the essential
+<topic id="topic-8777" xml:lang="en-us" outputclass="regulatory">
+    <title>CE Statement</title>
+    <body>
+        <p>This device has been tested and found to comply with the essential
             requirements and other relevant provisions of the applicable EU Directives.</p>
     </body>
 </topic>
