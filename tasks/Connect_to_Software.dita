@@ -10,42 +10,59 @@
     </prolog>
     <body>
         <p>The <keyword keyref="item-name"/> can be connected to PASCO Capstone or SPARKvue with a
-            USB or Bluetooth connection. The <keyword keyref="item-name"/> automatically connects to
-            the software when a USB connection is used.</p>
-        <p>To connect using Bluetooth:</p>
+            USB or Bluetooth connection.</p>
+        <note>USB is not supported for iOS and some Android devices.</note>
+        <note type="important">After connecting the <keyword keyref="item-name"/>, a notification
+            may appear asking to install a firmware update. Click <uicontrol>Yes</uicontrol> to
+            update the firmware if prompted.</note>
         <bodydiv>
             <div props="sparkvue">
                 <p><image placement="inline" href="../images/sparkvue_logo_only.svg"
                         id="image_wl1_wbf_cnb" height="1.0em"/> SPARKvue</p>
                 <ol id="ol_q1s_5ls_jnb">
+                    <li>Turn on the <keyword keyref="item-name"/>.</li>
                     <li>
-                        <p>Power on the <keyword keyref="item-name"/>.</p>
+                        <p>Open SPARKvue then click <uicontrol>Sensor Data</uicontrol>
+                            <image href="../images/sparkvue/setup/path_sensor.png"/>.</p>
                     </li>
-                    <li>
-                        <p>Open SPARKvue then click Hardware Setup.</p>
-                    </li>
-                    <li>
-                        <p>Select the device ID that matches your <keyword keyref="item-name"/>.</p>
-                    </li>
+                    <li>Connect the <keyword keyref="item-name"/> to SPARKvue:<ul>
+                            <li>USB: Connect the <keyword keyref="item-name"/> to your device using
+                                the USB cable.</li>
+                            <li>Bluetooth: Select the <keyword keyref="item-name"/> that matches its
+                                device ID.</li>
+                        </ul></li>
+                    <li>Select <image href="../images/sparkvue/setup/selection_yes.png"/> the
+                        measurements you want to display.</li>
+                    <li>Select a Template to display your data.</li>
+                    <li>Click <uicontrol>Start</uicontrol>
+                        <image href="../images/sparkvue/buttons/button_start.png"/> to begin data
+                        collection.</li>
                 </ol>
             </div>
             <div props="capstone">
                 <p><image placement="inline" href="../images/capstone_logo_only.svg"
                         id="image_l2v_cy2_cnb" height="1.0em"/> PASCO Capstone</p>
                 <ol id="ol_vpy_5ls_jnb">
-                    <li>
-                        <p>Power on the <keyword keyref="item-name"/>.</p>
-                    </li>
-                    <li>
-                        <p>Open Capstone then click Hardware Setup.</p>
-                    </li>
-                    <li>
-                        <p>Select the device ID that matches your <keyword keyref="item-name"/>.</p>
-                    </li>
+                    <li>Turn on the <keyword keyref="item-name"/>.</li>
+                    <li>Open Capstone then click <uicontrol>Hardware Setup</uicontrol>
+                        <image href="../images/capstone/palettes/tools/tool_HardwareSetup.png"
+                        />.</li>
+                    <li>Connect the <keyword keyref="item-name"/>:<ul>
+                            <li>USB: Connect the <keyword keyref="item-name"/> to your computing
+                                device using the USB cable.</li>
+                            <li>Bluetooth: Select the <keyword keyref="item-name"/> that matches its
+                                device ID.</li>
+                        </ul></li>
+                    <li>Click <uicontrol>Data Summary</uicontrol>
+                        <image href="../images/capstone/palettes/tools/tool_ExperimentData.png"/>
+                        then click and drag a measurement to a display, such as a Graph <image
+                            href="../images/capstone/palettes/displays/display_Graph_24x24.png"
+                        />.</li>
+                    <li>Click <uicontrol>Record</uicontrol>
+                        <image href="../images/capstone/palettes/controls/control_Record.png"/> to
+                        begin data collection.</li>
                 </ol>
             </div>
         </bodydiv>
-        <note type="important">You <i>may</i> receive a notification to install a firmware update.
-            Click Yes to update the firmware if prompted.</note>
     </body>
 </topic>
