@@ -11,31 +11,33 @@
     <body>
         <p>The latest update of PASCO Capstone or SPARKvue is required to use the <keyword
                 keyref="item-name"/>. Download the software at the locations provided below.</p>
-        <section id="section_jkn_qks_jnb">
-            <title><image placement="inline" href="../images/sparkvue_logo_only.svg"
-                    id="image_wl1_wbf_cnb" height="1.0em"/> SPARKvue</title>
-            <dl>
-                <dlentry>
-                    <dt>Windows/macOS</dt>
-                    <dd>Go to <xref format="html" href="pasco.com/sparkvue" scope="external"/> then
-                        click Downloads.</dd>
-                </dlentry>
-                <dlentry>
-                    <dt>iOS/Android/Chromebook</dt>
-                    <dd>Search for SPARKvue in your device's app store.</dd>
-                </dlentry>
-            </dl>
-        </section>
-        <section id="section_k5r_rks_jnb">
-            <title><image placement="inline" href="../images/capstone_logo_only.svg"
-                    id="image_l2v_cy2_cnb" height="1.0em"/> PASCO Capstone</title>
-            <dl>
-                <dlentry>
-                    <dt>Windows/macOS</dt>
-                    <dd>Go to <xref format="html" href="pasco.com/capstone" scope="external"/> then
-                        click Downloads.</dd>
-                </dlentry>
-            </dl>
-        </section>
+        <bodydiv>
+            <div props="sparkvue">
+                <p><image placement="inline" href="../images/sparkvue_logo_only.svg"
+                        id="image_wl1_wbf_cnb" height="1.0em"/> SPARKvue</p>
+                <dl>
+                    <dlentry>
+                        <dt>Windows/macOS</dt>
+                        <dd>Go to <xref format="html" href="pasco.com/sparkvue" scope="external"/>
+                            then click Downloads.</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>iOS/Android/Chromebook</dt>
+                        <dd>Search for SPARKvue in your device's app store.</dd>
+                    </dlentry>
+                </dl>
+            </div>
+            <div props="capstone">
+                <p><image placement="inline" href="../images/capstone_logo_only.svg"
+                        id="image_l2v_cy2_cnb" height="1.0em"/> PASCO Capstone</p>
+                <dl>
+                    <dlentry>
+                        <dt>Windows/macOS</dt>
+                        <dd>Go to <xref format="html" href="pasco.com/capstone" scope="external"/>
+                            then click Downloads.</dd>
+                    </dlentry>
+                </dl>
+            </div>
+        </bodydiv>
     </body>
 </topic>
