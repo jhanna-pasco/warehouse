@@ -11,7 +11,7 @@
     <body>
         <p>The <keyword keyref="item-name"/> can be connected to PASCO Capstone or SPARKvue with a
             USB or Bluetooth connection.</p>
-        <note>USB is not supported for iOS and some Android devices.</note>
+        <note>USB is not supported for iOS devices.</note>
         <note type="important">After connecting the <keyword keyref="item-name"/>, a notification
             may appear asking to install a firmware update. Click <uicontrol>Yes</uicontrol> to
             update the firmware if prompted.</note>
