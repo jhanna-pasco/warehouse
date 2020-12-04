@@ -16,27 +16,15 @@
                 <colspec colname="c2" colnum="2"/>
                 <tbody>
                     <row>
-                        <entry>Address</entry>
-                        <entry>
-                            <lines>PASCO scientific
-10101 Foothills Blvd.
-Roseville, CA 95747-7100</lines>
-                        </entry>
-                    </row>
-                    <row>
                         <entry>Phone</entry>
                         <entry>
-                            <lines>1-800-772-8700 (USA)
-1-916-462-8384 (International)</lines>
+                            <lines>USA: 1-800-772-8700 (Option 4)
+International: +1 916 462 8384</lines>
                         </entry>
                     </row>
                     <row>
-                        <entry>Chat</entry>
-                        <entry>www.pasco.com</entry>
-                    </row>
-                    <row>
-                        <entry>email</entry>
-                        <entry>support@pasco.com</entry>
+                        <entry>Online</entry>
+                        <entry>pasco.com/support</entry>
                     </row>
                 </tbody>
             </tgroup>
